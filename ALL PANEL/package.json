@@ -1,0 +1,17 @@
+{
+  "name": "bot-otp-super-hybrid",
+  "version": "2.0.0",
+  "description": "Bot Auto Scraper OTP 8 Panel Sekaligus (Super Brutal V2)",
+  "main": "OTP.js",
+  "scripts": {
+    "start": "node OTP.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "node-telegram-bot-api": "^0.65.0",
+    "xlsx": "^0.18.5"
+  },
+  "author": "yurafli856",
+  "license": "ISC"
+}
